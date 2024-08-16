@@ -1,14 +1,13 @@
 {
-  "extends": "code-style/tsconfig.json",
-  "compilerOptions": {
-    "rootDir": "src",
-    "outDir": "dist",
-    "noUncheckedIndexedAccess": true
-  },
-  "include": [
-    "src/**/*"
-  ],
-  "ts-node": {
-    "transpileOnly": true
-  }
-}
+
+  "extends":
+  "code-style/tsconfig.json",  
+  "compiler
+  Options":
+  { "rootDir": "src",
+  "outDir": "dist", 
+    "no Unchecked 
+    Indexed Access": true },"include":[
+"src/**/*"],"ts-node":
+    { "transpileOnly": true
+  }}
